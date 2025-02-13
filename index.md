@@ -1,5 +1,7 @@
-# This is an `<h1>` header, which is the largest
+# The largest header: `<h1>` header. 
 
-## This is an `<h2>` header
+## This is an `<h2>` header.
 
-###### This is an `<h6>` header, which is the smallest
+###### The smallest header: `<h6>` header.
+
+![Image of an Octocat](https://cameronmcefee.com/img/work/the-octocat/original.jpg)
