@@ -5,3 +5,13 @@
 ###### The smallest header: `<h6>` header.
 
 ![Image of an Octocat](https://cameronmcefee.com/img/work/the-octocat/original.jpg)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
